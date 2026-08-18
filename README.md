@@ -367,9 +367,10 @@ State 12: →
 State 13: →
 State 14: →
 State 15: →
-Average reward over last 1000 episodes: 
-```
 
+```
+## Average reward over last 1000 episodes:
+<img width="1279" height="786" alt="image" src="https://github.com/user-attachments/assets/4eb2c921-95ca-4b29-8a84-669a394a2db2" />
 
 ---
 
