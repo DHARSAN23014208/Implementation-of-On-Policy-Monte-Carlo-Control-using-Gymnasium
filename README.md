@@ -321,54 +321,24 @@ env.close()
 
 ## Output
 
-```text
-Final Q-table:
+## Final Q-table:
 
-[[0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]
- [0.0000 0.0000 0.0000 0.0000]]
-
-Estimated State-Value Function:
-
-[0.0000 0.0000 0.0000 0.0000
- 0.0000 0.0000 0.0000 0.0000
- 0.0000 0.0000 0.0000 0.0000
- 0.0000 0.0000 0.0000 0.0000]
+<img width="326" height="426" alt="image" src="https://github.com/user-attachments/assets/6f6ab904-f697-4b2a-81ea-201b7a52f72b" />
 
 
-Learned Policy:
 
-State 0: →
-State 1: →
-State 2: ↓
-State 3: ←
-State 4: ↓
-State 5: →
-State 6: ↓
-State 7: →
-State 8: →
-State 9: ↓
-State 10: ↓
-State 11: ↑
-State 12: →
-State 13: →
-State 14: →
-State 15: →
+## Estimated State-Value Function:
 
-```
+<img width="723" height="95" alt="image" src="https://github.com/user-attachments/assets/c0bca3f4-58bd-42a3-83e8-b1aa9a7cdb24" />
+
+
+
+## Learned Policy:
+
+<img width="200" height="141" alt="image" src="https://github.com/user-attachments/assets/631f9dd1-f729-47cd-9481-124c750bb04b" />
+
+
+
 ## Average reward over last 1000 episodes:
 <img width="1279" height="786" alt="image" src="https://github.com/user-attachments/assets/4eb2c921-95ca-4b29-8a84-669a394a2db2" />
 
